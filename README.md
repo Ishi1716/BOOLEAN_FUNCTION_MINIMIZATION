@@ -50,7 +50,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **WAVEFORM:**
 
-![image](https://github.com/user-attachments/assets/9e9dd5e2-cea0-41cd-9690-0a08b8b6de36)
+![image](https://github.com/user-attachments/assets/b7a0149f-f83d-430b-9d90-5a95ba3ba5a6)
+
 
 **Result:**
 
