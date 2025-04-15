@@ -1,3 +1,6 @@
+
+# NAME: I S ISHITA 
+# REG NO: 24003847
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
@@ -33,18 +36,21 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:*/
+![image](https://github.com/user-attachments/assets/2a5a683a-b793-4432-a961-7da8e957e105)
 
 
-**RTL realization**
+**TRUTHTABLE**
 
-**Output:**
+![image](https://github.com/user-attachments/assets/b4838796-1acb-4e9b-acda-ac254eeed203)
+![image](https://github.com/user-attachments/assets/ee64b24e-3349-4046-ae76-78627c0851bb)
 
-**RTL**
+**RTL:**
 
-**Timing Diagram**
+![image](https://github.com/user-attachments/assets/489e5576-091c-4dd7-8e34-6c67f7614435)
+
+**WAVEFORM:**
+
+![image](https://github.com/user-attachments/assets/9e9dd5e2-cea0-41cd-9690-0a08b8b6de36)
 
 **Result:**
 
